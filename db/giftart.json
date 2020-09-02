@@ -71,6 +71,13 @@
         "id": "0d4a8c782a914dbcb57b44114aebd291"
     },
     {
+        "credits": "Wild Catgirl Washu",
+        "title": "Zack's Pocky Obession",
+        "description": null,
+        "image": "zs_pocky_obsession_by_wild_catgirl_washu.jpg",
+        "id": "1b8ba299fe8a452891520c2471d4462a"
+    },
+    {
         "credits": "Coshi Dragonite",
         "title": "The Furry Blue DJ",
         "description": "In his original incarnation, Zack was a DJ.",
@@ -97,5 +104,33 @@
         "description": null,
         "image": "anti-aidan-2-by-stuart.jpg",
         "id": "91268c4c85554787908543a92b735094"
+    },
+    {
+        "credits": "Travisuped",
+        "title": "Z's Marble",
+        "description": "Created by an old friend who came up with a lot of concepts that.",
+        "image": "z_marble_by_travisuped.jpg",
+        "id": "a126ea87157049d69bfbe0ffced44c06"
+    },
+    {
+        "credits": "Nanao",
+        "title": "Zack Casey",
+        "description": null,
+        "image": "zc_fanart_by_kawaiinanao.jpg",
+        "id": "29212a1533fb44499103cc57ab08c8ee"
+    },
+    {
+        "credits": "Cheetahgal",
+        "title": "Zack Casey",
+        "description": null,
+        "image": "zc_d_by_cheetahgal.jpg",
+        "id": "7dbaad83616b41cc828c32e147bcd67b"
+    },
+    {
+        "credits": "Sarah Ookami",
+        "title": "Zack Casey",
+        "description": null,
+        "image": "lotsa_detail_and_blueness_X3_by_ryus_girl.jpg",
+        "id": "4ce200e4893b47849ee48a1fab76e15b"
     }
 ]
