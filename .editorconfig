@@ -1,0 +1,10 @@
+# Default settings:
+# A newline ending every file
+# Use 4 spaces as indentation
+[*]
+charset                  = utf-8
+end_of_line              = crlf
+indent_style             = space
+indent_size              = 4
+insert_final_newline     = false
+trim_trailing_whitespace = true
