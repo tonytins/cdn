@@ -85,7 +85,7 @@
     {
         "image": "coding.png",
         "title": "Coding",
-        "description": "While not the only reason, it did contribute to me getting out of web development until Blazor: WebAssembly.",
+        "description": "While not the only reason, it did contribute to me getting out of web development until [Blazor: WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor).",
         "id": "cba0c40c-14cc-4936-8bd0-f7840f44e5a6"
     },
     {
