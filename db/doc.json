@@ -93,5 +93,28 @@
         "title": "Cirria",
         "description": "A furry version of a cat I use to have.",
         "id": "80117f5e-12c3-40d4-b523-313dced1f4f0"
+    },
+    {
+        "image": "aidanv1modelsheet.png",
+        "title": "Aidan v1 Model Sheet",
+        "description": "Formal introduction of Aidan Cheddar",
+        "id": "37931676-b2e1-4e3e-a5cd-146a690dfb9e"
+    },
+    {
+        "image": "aidanv2modelsheet.png",
+        "title": "Aidan v2 Model Sheet",
+        "id": "b78ba499-e132-4acd-9257-16bb1f438c4d"
+    },
+    {
+        "image": "aidanv3modelsheet.png",
+        "title": "Aidan v3 Model Sheet",
+        "description": "Current version of Aidan Cheddar",
+        "id": "192afdbc-e55f-45b5-afb1-3df9e9488ec3"
+    },
+    {
+        "image": "aquafox.png",
+        "title": "Aqua Fox",
+        "description": "The first version of Zack with super powers.",
+        "id": "e56b7ce4-9cce-41f1-9f45-30b851c83e2f"
     }
 ]
