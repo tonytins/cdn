@@ -52,5 +52,46 @@
         "title": "Mega",
         "description": "At this point, Megawolf and I were friends and I started referring to him as \"Mega\".",
         "id": "25552bbb-f451-48ab-97b2-ce184f8893f3"
+    },
+    {
+        "image": "momdad.png",
+        "title": "Mom & Dad",
+        "description": "For a short time, Zack was a cat-fox hybrid because the way I drew him resembled more of a cat even though he had a fox-like tail.",
+        "id": "5767a102-9727-496c-99dd-f377e6b07304"
+    },
+    {
+        "image": "cookiegirl.png",
+        "title": "Cookie Girl",
+        "description": "Take Angelica from Rugrats and increase her cookie obsession up to 11.",
+        "id": "35f7740e-fd8e-48be-9272-b871078fdccf"
+    },
+    {
+        "image": "4thjuly.png",
+        "title": "4th of July",
+        "description": "The idea actually came from Coshi Dragonite and it turned into it a tradition for a while. XD",
+        "id": "0f4dd269-c232-42e4-acfe-34b6c3a0cc1c"
+    },
+    {
+        "image": "johnmodelsheet.png",
+        "title": "John Model Sheet",
+        "id": "af870f17-8158-4c93-9be3-bac99366a6d0"
+    },
+    {
+        "image": "alex.png",
+        "title": "Alex",
+        "description": "A furry version of my younger half-brother who is much older now. I never really got to evolve his character because we moved.",
+        "id": "697faa73-c0b7-415d-b201-601c648f78e1"
+    },
+    {
+        "image": "coding.png",
+        "title": "Coding",
+        "description": "While not the only reason, it did contribute to me getting out of web development until Blazor: WebAssembly.",
+        "id": "cba0c40c-14cc-4936-8bd0-f7840f44e5a6"
+    },
+    {
+        "image": "cirria.png",
+        "title": "Cirria",
+        "description": "A furry version of a cat I use to have.",
+        "id": "80117f5e-12c3-40d4-b523-313dced1f4f0"
     }
 ]
