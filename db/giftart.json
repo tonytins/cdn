@@ -1,151 +1,153 @@
-[
-    {
-        "credits": "Fingo Fox",
-        "image": "commission-icons-steve-and-anthony-2020-full.jpg",
-        "title": "Anthony 💕 Stefen",
-        "description": "Anthony on the left. Stefen on the right.",
-        "copyrights": "Stefen © Stefen Auris",
-        "key": "eb272b65-6e62-43ac-8f00-abdf1ef0d1c0"
-    },
-    {
-        "credits": "chewycuticle",
-        "title": "Aidan Chedar",
-        "description": null,
-        "image": "chewycuticle-aidan.jpg",
-        "key": "619e178b-c8b7-46c2-a23b-046dc17f0169"
-    },
-    {
-        "credits": "Epic Bun Bun",
-        "title": "Femintins",
-        "description": "Bun Bun wanted to make Anthony really feminine. Anthony is already feminine as it is by wearing a skirt in his casual wear. Bun Bun wanted to take that up to 11.",
-        "image": "toni.png",
-        "key": "ee5a3fd0-96a9-4284-a056-c188c23fc786"
-    },
-    {
-        "credits": "Andreas Foxen",
-        "title": "Aidan Chedar",
-        "description": null,
-        "image": "andreas-aidan-cheddar-color.png",
-        "key": "74eebc27-aab5-4ce8-8a8f-a108cbea45ff"
-    },
-    {
-        "credits": "Pyro",
-        "title": "Super Anthony",
-        "description": "Anthony's super hero form.",
-        "image": "super-anthony.jpg",
-        "key": "dee6c64b-ab06-46af-b40b-5d1427458bb7"
-    },
-    {
-        "credits": "Watthaduece",
-        "title": "It's Angst Easy Being Z",
-        "description": "This along with \"Plant a Z\" was drawn by Watthaduece when I was going through more darker times.",
-        "image": "it_angst_easy_being_z_by_watthaduece.jpg",
-        "key": "0edf802e-8559-4c8c-82f3-bf202b973f43"
-    },
-    {
-        "credits": "Watthaduece",
-        "title": "Plant a Z",
-        "description": null,
-        "image": "plant_a_z_today_by_watthaduece.jpg",
-        "key": "4d086360-8d4e-44d2-9df0-e845c1c1d5e7"
-    },
-    {
-        "credits": "Coshi Dragonite",
-        "title": "Undies of America",
-        "description": "A follow up to my [4th of July](gallery/doc/0f4dd269-c232-42e4-acfe-34b6c3a0cc1c) pic, featuring Lilchu.",
-        "image": "undiesofamerica.jpg",
-        "copyrights": "Lilchu © LilChu",
-        "key": "5cc42541-aba6-4aaa-97ea-2cf9799bb6a7"
-    },
-    {
-        "credits": "Pate",
-        "title": "Tom",
-        "description": null,
-        "image": "tomas.png",
-        "key": "46feb9e2-afb9-424c-9f8f-b679a904c6d8"
-    },
-    {
-        "credits": "Kitsu-kun",
-        "title": "Aidan Cheddar",
-        "description": null,
-        "image": "aidancoldscarf.jpg",
-        "key": "82cf4b4c-baa1-4302-978a-7347d20d15b9"
-    },
-    {
-        "credits": "Wild Catgirl Washu",
-        "title": "Zack Casey",
-        "description": null,
-        "image": "to_z_by_wild_catgirl_washu.gif",
-        "key": "1156e19d-5418-4fc1-9f7e-be6e0956edb6"
-    },
-    {
-        "credits": "Wild Catgirl Washu",
-        "title": "Zack's Pocky Obession",
-        "description": null,
-        "image": "zs_pocky_obsession_by_wild_catgirl_washu.jpg",
-        "key": "2a41a7b1-b9a6-4da8-a5cf-307651d29dfd"
-    },
-    {
-        "credits": "Coshi Dragonite",
-        "title": "The Furry Blue DJ",
-        "description": "In his original incarnation, Zack was a DJ.",
-        "image": "zack_dj.jpg",
-        "key": "dab910e2-e7a6-4150-9ce8-7aa6712f49bf"
-    },
-    {
-        "credits": "Megawolf",
-        "title": "zc456 got 700 page views!",
-        "description": "I use to be active on DeviantART as \"zc456\". Megawolf drew this for me when I reached 700 views.",
-        "image": "zc456_got_700_pageviews_by_megawolf77.jpg",
-        "key": "114d361a-41eb-4f03-90fb-6584207b7732"
-    },
-    {
-        "credits": "Stuart Otterson",
-        "title": "Anti-Aidan",
-        "description": "Originally known as \"Dark Aidan\", Anti-Aidan was an idea thought up of by Stuart Otterson.",
-        "image": "anti-aidan-1-by-stuart.jpg",
-        "key": "b29fb9f5-41fe-4043-8bfd-d1db971f37cd"
-    },
-    {
-        "credits": "Stuart Otterson",
-        "title": "Anti-Aidan v2",
-        "description": null,
-        "image": "anti-aidan-2-by-stuart.jpg",
-        "key": "d94773ae-3a1a-4aa5-9c55-cf2fa4bd52b7"
-    },
-    {
-        "credits": "Travisuped",
-        "title": "Zack's Marble",
-        "description": "Created by an old friend who thought up of a lot of the concepts for Zack's world back in the day.",
-        "image": "z_marble_by_travisuped.jpg",
-        "key": "3b0062a9-75b5-44c7-a465-087eeaf8e9d9"
-    },
-    {
-        "credits": "ZamieCat",
-        "title": "Make 'em Laugh",
-        "description": null,
-        "image": "make_em_laugh_by_zamiecat.jpg",
-        "key": "291e3d7e-4a4e-4d67-a098-3bd0c1511c3d"
-    },
-    {
-        "credits": "Nanao",
-        "title": "Zack Casey",
-        "description": null,
-        "image": "zc_fanart_by_kawaiinanao.jpg",
-        "key": "ede6fc19-ee75-4613-ad07-b2ef5c0799f9"
-    },
-    {
-        "credits": "Cheetahgal",
-        "title": "Zack Casey",
-        "description": null,
-        "image": "zc_d_by_cheetahgal.jpg",
-        "key": "50cdd240-c014-488e-a593-b53227b16b44"
-    },
-    {
-        "credits": "Sarah Ookami",
-        "title": "Zack Casey",
-        "description": null,
-        "image": "lotsa_detail_and_blueness_X3_by_ryus_girl.jpg",
-        "key": "16307eaa-ed9c-4b32-9358-3c5324991c99"
-    }
-]
+{
+    "artwork": [
+        {
+            "credits": "Fingo Fox",
+            "image": "commission-icons-steve-and-anthony-2020-full.jpg",
+            "title": "Anthony 💕 Stefen",
+            "description": "Anthony on the left. Stefen on the right.",
+            "copyrights": "Stefen © Stefen Auris",
+            "key": "eb272b65-6e62-43ac-8f00-abdf1ef0d1c0"
+        },
+        {
+            "credits": "chewycuticle",
+            "title": "Aidan Chedar",
+            "description": null,
+            "image": "chewycuticle-aidan.jpg",
+            "key": "619e178b-c8b7-46c2-a23b-046dc17f0169"
+        },
+        {
+            "credits": "Epic Bun Bun",
+            "title": "Femintins",
+            "description": "Bun Bun wanted to make Anthony really feminine. Anthony is already feminine as it is by wearing a skirt in his casual wear. Bun Bun wanted to take that up to 11.",
+            "image": "toni.png",
+            "key": "ee5a3fd0-96a9-4284-a056-c188c23fc786"
+        },
+        {
+            "credits": "Andreas Foxen",
+            "title": "Aidan Chedar",
+            "description": null,
+            "image": "andreas-aidan-cheddar-color.png",
+            "key": "74eebc27-aab5-4ce8-8a8f-a108cbea45ff"
+        },
+        {
+            "credits": "Pyro",
+            "title": "Super Anthony",
+            "description": "Anthony's super hero form.",
+            "image": "super-anthony.jpg",
+            "key": "dee6c64b-ab06-46af-b40b-5d1427458bb7"
+        },
+        {
+            "credits": "Watthaduece",
+            "title": "It's Angst Easy Being Z",
+            "description": "This along with \"Plant a Z\" was drawn by Watthaduece when I was going through more darker times.",
+            "image": "it_angst_easy_being_z_by_watthaduece.jpg",
+            "key": "0edf802e-8559-4c8c-82f3-bf202b973f43"
+        },
+        {
+            "credits": "Watthaduece",
+            "title": "Plant a Z",
+            "description": null,
+            "image": "plant_a_z_today_by_watthaduece.jpg",
+            "key": "4d086360-8d4e-44d2-9df0-e845c1c1d5e7"
+        },
+        {
+            "credits": "Coshi Dragonite",
+            "title": "Undies of America",
+            "description": "A follow up to my [4th of July](gallery/doc/0f4dd269-c232-42e4-acfe-34b6c3a0cc1c) pic, featuring Lilchu.",
+            "image": "undiesofamerica.jpg",
+            "copyrights": "Lilchu © LilChu",
+            "key": "5cc42541-aba6-4aaa-97ea-2cf9799bb6a7"
+        },
+        {
+            "credits": "Pate",
+            "title": "Tom",
+            "description": null,
+            "image": "tomas.png",
+            "key": "46feb9e2-afb9-424c-9f8f-b679a904c6d8"
+        },
+        {
+            "credits": "Kitsu-kun",
+            "title": "Aidan Cheddar",
+            "description": null,
+            "image": "aidancoldscarf.jpg",
+            "key": "82cf4b4c-baa1-4302-978a-7347d20d15b9"
+        },
+        {
+            "credits": "Wild Catgirl Washu",
+            "title": "Zack Casey",
+            "description": null,
+            "image": "to_z_by_wild_catgirl_washu.gif",
+            "key": "1156e19d-5418-4fc1-9f7e-be6e0956edb6"
+        },
+        {
+            "credits": "Wild Catgirl Washu",
+            "title": "Zack's Pocky Obession",
+            "description": null,
+            "image": "zs_pocky_obsession_by_wild_catgirl_washu.jpg",
+            "key": "2a41a7b1-b9a6-4da8-a5cf-307651d29dfd"
+        },
+        {
+            "credits": "Coshi Dragonite",
+            "title": "The Furry Blue DJ",
+            "description": "In his original incarnation, Zack was a DJ.",
+            "image": "zack_dj.jpg",
+            "key": "dab910e2-e7a6-4150-9ce8-7aa6712f49bf"
+        },
+        {
+            "credits": "Megawolf",
+            "title": "zc456 got 700 page views!",
+            "description": "I use to be active on DeviantART as \"zc456\". Megawolf drew this for me when I reached 700 views.",
+            "image": "zc456_got_700_pageviews_by_megawolf77.jpg",
+            "key": "114d361a-41eb-4f03-90fb-6584207b7732"
+        },
+        {
+            "credits": "Stuart Otterson",
+            "title": "Anti-Aidan",
+            "description": "Originally known as \"Dark Aidan\", Anti-Aidan was an idea thought up of by Stuart Otterson.",
+            "image": "anti-aidan-1-by-stuart.jpg",
+            "key": "b29fb9f5-41fe-4043-8bfd-d1db971f37cd"
+        },
+        {
+            "credits": "Stuart Otterson",
+            "title": "Anti-Aidan v2",
+            "description": null,
+            "image": "anti-aidan-2-by-stuart.jpg",
+            "key": "d94773ae-3a1a-4aa5-9c55-cf2fa4bd52b7"
+        },
+        {
+            "credits": "Travisuped",
+            "title": "Zack's Marble",
+            "description": "Created by an old friend who thought up of a lot of the concepts for Zack's world back in the day.",
+            "image": "z_marble_by_travisuped.jpg",
+            "key": "3b0062a9-75b5-44c7-a465-087eeaf8e9d9"
+        },
+        {
+            "credits": "ZamieCat",
+            "title": "Make 'em Laugh",
+            "description": null,
+            "image": "make_em_laugh_by_zamiecat.jpg",
+            "key": "291e3d7e-4a4e-4d67-a098-3bd0c1511c3d"
+        },
+        {
+            "credits": "Nanao",
+            "title": "Zack Casey",
+            "description": null,
+            "image": "zc_fanart_by_kawaiinanao.jpg",
+            "key": "ede6fc19-ee75-4613-ad07-b2ef5c0799f9"
+        },
+        {
+            "credits": "Cheetahgal",
+            "title": "Zack Casey",
+            "description": null,
+            "image": "zc_d_by_cheetahgal.jpg",
+            "key": "50cdd240-c014-488e-a593-b53227b16b44"
+        },
+        {
+            "credits": "Sarah Ookami",
+            "title": "Zack Casey",
+            "description": null,
+            "image": "lotsa_detail_and_blueness_X3_by_ryus_girl.jpg",
+            "key": "16307eaa-ed9c-4b32-9358-3c5324991c99"
+        }
+    ]
+}
