@@ -133,7 +133,7 @@
         {
             "image": "fbdjweb.png",
             "title": "Furry Blue DJ Website",
-            "description": "Made in Microsoft Frontpage, The Furry Blue DJ was meant to showcase my artwork. It never came to fruitarian because my HDD gave out.",
+            "description": "Made in Microsoft Frontpage, The Furry Blue DJ was meant to showcase my artwork.",
             "key": "4124198d-5289-4a24-aa06-49f1e4d3204d"
         },
         {
@@ -145,7 +145,7 @@
         {
             "image": "fbdoc.png",
             "title": "Furry Blue DOC",
-            "description": "Furry Blue DOC was the spiritual successor to the [Furry Blue DJ](/gallery/doc/4124198d-5289-4a24-aa06-49f1e4d3204d) website meant as an archive of my past works. It had many iterations, improvements, and was put onto a lot of free static web hosts because I didn't have to worry about the content changing over time.",
+            "description": "Furry Blue DOC was the spiritual successor to the [Furry Blue DJ](/gallery/doc/4124198d-5289-4a24-aa06-49f1e4d3204d) website meant as an archive of my past works. It had many iterations, improvements, and was put onto a lot of free static web hosts after the PHP stuff was removed because I didn't have to worry about the content changing over time.",
             "key": "02b72d88-58f4-4f18-94d0-1840db717584"
         },
         {
