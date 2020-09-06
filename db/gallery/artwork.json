@@ -5,19 +5,19 @@
             "image": "infinitevoid.png",
             "title": "Infinite Void",
             "description": "Based off of a [tutorial](https://youtu.be/W9eAVW4G8ws).",
-            "id": "223b06de-1a19-4255-b17b-c68cc49dc2de"
+            "key": "223b06de-1a19-4255-b17b-c68cc49dc2de"
         },
         {
             "image": "80s.png",
             "title": "The 80s",
             "description": "Based off of a tutorial.",
-            "id": "2d480a8d-3e7b-4898-a39a-d432fa750aec"
+            "key": "2d480a8d-3e7b-4898-a39a-d432fa750aec"
         },
         {
             "image": "minirobot.png",
             "title": "Mini Robot",
             "description": "Based off of a tutorial.",
-            "id": "aa2a6735-c4e8-4b0b-8560-002a365b4f7f"
+            "key": "aa2a6735-c4e8-4b0b-8560-002a365b4f7f"
         }
     ]
 }
