@@ -1,26 +1,48 @@
-[
-    {
-        "name": "Zack Casey",
-        "image": "",
-        "description": "",
-        "page": "characters/zc"
-    },
-    {
-        "name": "Anthony Foxclaw",
-        "image": "",
-        "description": "",
-        "page": "characters/anthony"
-    },
-    {
-        "name": "Felix Green",
-        "image": "",
-        "description": "",
-        "page": "characters/felix"
-    },
-    {
-        "name": "",
-        "image": "",
-        "description": "Located in the deep sea, Max is a shark ",
-        "page": "characters/felix"
-    }
-]
+{
+    "title": "",
+    "description": "",
+    "characters": [
+        {
+            "name": "Zack Casey",
+            "image": "",
+            "species": "Fox",
+            "description": "",
+            "permalink": "zc"
+        },
+        {
+            "name": "Anthony Foxclaw",
+            "image": "",
+            "description": "Anthony a ",
+            "species": "Fennec",
+            "permalink": "anthony"
+        },
+        {
+            "name": "Felix Green",
+            "image": "",
+            "description": "",
+            "species": "",
+            "permalink": "felix"
+        },
+        {
+            "name": "Tom Wilcox",
+            "image": "",
+            "description": "",
+            "species": "Border Collie",
+            "permalink": "felix"
+        },
+        {
+            "name": "Max",
+            "image": "",
+            "description": "",
+            "species": "Shark",
+            "permalink": "max"
+        },
+        {
+            "name": "Max",
+            "image": "",
+            "description": "",
+            "species": "Dolphin",
+            "permalink": ""
+        }
+    ]
+}
