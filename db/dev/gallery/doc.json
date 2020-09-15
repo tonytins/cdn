@@ -165,9 +165,31 @@
             "key": "2615aee5-fe03-46df-bf73-77a5bc982754"
         },
         {
+            "image": "adjusteyes.png",
+            "title": "Don't Adjust Your Eyes",
+            "description": "He adjusted his eyes. xD",
+            "key": "1b14f9b3-d806-41f5-906f-33e9a045fa18"
+        },
+        {
             "image": "djz.jpg",
             "title": "DJ Zack",
             "key": "3c6cc743-da4e-4ad2-a109-c6996664acd0"
+        },
+        {
+            "image": "anothersonic.png",
+            "title": "Sonic",
+            "description": "Somehow I drew this paint.",
+            "key": "e4fb55bf-1872-4271-a079-a5d40c176c3a"
+        },
+        {
+            "image": "catz.png",
+            "title": "Cat Z",
+            "key": "6f998fd0-ec6b-4310-a9f9-d69a8d41c4bd"
+        },
+        {
+            "image": "fido.png",
+            "title": "A Pup that Loves to Fly",
+            "key": "08c26f93-2f80-462e-9cbe-51823a14d162"
         },
         {
             "image": "goodbadz.png",
@@ -181,14 +203,30 @@
             "key": "ea72dc9c-edc9-428e-b1f1-03152c37aa40"
         },
         {
+            "image": "dachristmas.png",
+            "title": "A Deviant Christmas",
+            "key": "8cc16895-71c5-4eee-aa26-f73d7e418a70"
+        },
+        {
             "image": "notontime.png",
             "title": "You're late",
             "key": "bc82616d-2d80-4e8d-b1c2-7ae8e857c6ef"
         },
         {
+            "image": "icrazy.png",
+            "title": "iCrazy",
+            "description": "I was really into the iPod, at the time.",
+            "key": "23e2d2a9-3992-4656-bf49-722e1782f001"
+        },
+        {
             "image": "z08modelsheet.png",
             "title": "Zack 2008 Model Sheet",
             "key": "67bc1226-b63d-41ec-b57a-13219aac8abf"
+        },
+        {
+            "image": "zack05.png",
+            "title": "Zack",
+            "key": "0ac9f1b8-4ca0-4a2f-96c3-56ab21af694d"
         },
         {
             "image": "zconcept2.png",
