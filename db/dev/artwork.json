@@ -36,6 +36,34 @@
             "key": "b78ba499-e132-4acd-9257-16bb1f438c4d"
         },
         {
+            "image": "kittywithamouse.png",
+            "title": "Kitty with a Mouse",
+            "credits": "Konner © Konner Nicolau",
+            "id": "27daf89c-db33-4108-89c3-b70ee66a772a"
+        },
+        {
+            "image": "8biteraaidan.png",
+            "title": "8 Bit Aidan",
+            "id": "c1c19c32-36c9-4dec-94fc-257d4ad63ea2"
+        },
+        {
+            "image": "8biterakit.png",
+            "title": "8 Bit Kit",
+            "id": "2fecc5b8-3688-46c0-82d8-6f792b0da351"
+        },
+
+        {
+            "image": "8biteramega.png",
+            "title": "8 Bit Mega",
+            "credits": "Mega © Megawolf77",
+            "id": "ef1948ab-8231-4455-b4ba-80eb0cc18236"
+        },
+        {
+            "image": "8biteracirria.png",
+            "title": "8 Bit Cirria",
+            "id": "7a62e236-a2f6-4941-8b41-023861d59db3"
+        },
+        {
             "image": "aidanv3modelsheet.png",
             "title": "Aidan v3 Model Sheet",
             "description": "Version 3 is the modern and still current version of Aidan Cheddar that was heavily inspired by my ex-bf who lived in Ireland.",
