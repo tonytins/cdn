@@ -86,6 +86,11 @@
             "key": "697faa73-c0b7-415d-b201-601c648f78e1"
         },
         {
+            "image": "gaiazack.png",
+            "title": "Gaia Zack",
+            "key": "5043de49-6084-4f06-a9c9-fad877c06ffb"
+        },
+        {
             "image": "coding.png",
             "title": "Coding",
             "description": "While not the only reason, it did contribute to me getting out of web development until [Blazor: WebAssembly](https:\/\/dotnet.microsoft.com\/apps\/aspnet\/web-apps\/blazor).",
@@ -103,16 +108,34 @@
             "key": "2472ee63-1c06-4e5e-9cfb-5b5d6e5d9d9a"
         },
         {
+            "image": "ohno.png",
+            "title": "Oh no!",
+            "description": "I think when I drew this it was intended to be something else but because of my clunky art style, at the time, it looked like he was about to fall.",
+            "key": "03c84a5e-39af-42b8-82d1-e4227d1bd918"
+        },
+        {
             "image": "fbdjweb.png",
             "title": "FBDJ Website",
             "description": "Made in Microsoft Frontpage, The Furry Blue DJ was meant to showcase my artwork. Though a version of FBDJ did eventually exist under a .com, it mostly wind up serving as a portal that linked to other subdomains within in it because a personal gallery to the equivalent of this was not possible with my limited resources and knowledge on web development.",
             "key": "4124198d-5289-4a24-aa06-49f1e4d3204d"
         },
         {
+            "image": "p40.png",
+            "title": "Amtrak's P40 locomotive",
+            "description": "I wanted to draw something not furry for once and get into my love of trains. So I painstakingly drew this with a mouse.",
+            "key": "b5679092-aeb0-44bd-ad66-ba7c7a8b2c5b"
+        },
+        {
             "image": "fbdjwebv2.png",
             "title": "FBDJ v2 Website",
             "description": "Version 2 of Furry Blue DJ website continued with the idea of showcasing my art but with broader dreams of making it more like my own personal DeviantART. The homepage reflected that but it was all updated manually.",
             "key": "f3a28fdd-5d4c-4922-873a-3be4eec224d5d"
+        },
+        {
+            "image": "plantbutt.png",
+            "title": "Plant your Butt",
+            "description": "I was silly. xD",
+            "key": "68169324-df1e-4d00-8cf1-8f8d1014c5d1"
         },
         {
             "image": "fbdoc.png",
@@ -122,18 +145,40 @@
         },
         {
             "image": "zmodelsheet.png",
-            "title": "Z 2005 Model Sheet",
+            "title": "Zack v1 Model Sheet",
             "key": "a0eaeb09-7eae-46f8-8eab-1f7d08847936"
         },
         {
+            "image": "zbigbubble.png",
+            "title": "Zack and the Big Bubble",
+            "description": "I had intended to submit this ",
+            "key": "657b867c-52fb-4294-918a-4988ebb07a41"
+        },
+        {
+            "image": "zconcept1.png",
+            "title": "Zack, concept 1",
+            "key": "698ade7f-1e2a-4d0b-a9fd-39e8ba53deab"
+        },
+        {
             "image": "djz.jpg",
-            "title": "DJ Z",
+            "title": "DJ Zack",
             "key": "3c6cc743-da4e-4ad2-a109-c6996664acd0"
         },
         {
             "image": "goodbadz.png",
             "title": "The Good, The Bad, The Z",
             "key": "fe4cf5c2-1dc5-490d-a914-25b4022d45ee"
+        },
+        {
+            "image": "shockingexp.png",
+            "title": "Shocking Experience",
+            "description": "This comic was part of Z's Shorty Manga comic series, my personal version of Mega's Shorty Manga. The original was top-down but I made it left-right.",
+            "key": "ea72dc9c-edc9-428e-b1f1-03152c37aa40"
+        },
+        {
+            "image": "zconcept2.png",
+            "title": "Zack, concept 2",
+            "key": "698ade7f-1e2a-4d0b-a9fd-39e8ba53deab"
         },
         {
             "image": "goodmorning.jpg",
