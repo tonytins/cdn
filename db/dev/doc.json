@@ -98,37 +98,9 @@
             "key": "80117f5e-12c3-40d4-b523-313dced1f4f0"
         },
         {
-            "image": "aidanv1modelsheet.png",
-            "title": "Aidan v1 Model Sheet",
-            "description": "Aidan Cheddar initially started off as a mouse version of Zack.",
-            "key": "37931676-b2e1-4e3e-a5cd-146a690dfb9e"
-        },
-        {
-            "image": "aidanv2modelsheet.png",
-            "title": "Aidan v2 Model Sheet",
-            "key": "b78ba499-e132-4acd-9257-16bb1f438c4d"
-        },
-        {
-            "image": "aidanv3modelsheet.png",
-            "title": "Aidan v3 Model Sheet",
-            "description": "Version 3 is the modern and still current version of Aidan Cheddar that was heavily inspired by my ex-bf who lived in Ireland.",
-            "key": "192afdbc-e55f-45b5-afb1-3df9e9488ec3"
-        },
-        {
-            "image": "aquafox.png",
-            "title": "Aqua Fox",
-            "description": "The first version of Zack with super powers.",
-            "key": "e56b7ce4-9cce-41f1-9f45-30b851c83e2f"
-        },
-        {
             "image": "yesmaster.png",
             "title": "Yes Master",
             "key": "2472ee63-1c06-4e5e-9cfb-5b5d6e5d9d9a"
-        },
-        {
-            "image": "aidanbrushed.png",
-            "title": "Aidan Brushed",
-            "key": "79860471-58f9-41fd-a355-454ed3f4dce0"
         },
         {
             "image": "fbdjweb.png",
@@ -147,11 +119,6 @@
             "title": "Furry Blue DOC",
             "description": "Furry Blue DOC was the spiritual successor to the [Furry Blue DJ](\/gallery\/doc\/4124198d-5289-4a24-aa06-49f1e4d3204d) website after I had shutdown the domain. It had many iterations, improvements, and was put onto a lot of free static web hosts after the PHP stuff was removed because I didn't have to worry about the content changing over time.",
             "key": "02b72d88-58f4-4f18-94d0-1840db717584"
-        },
-        {
-            "image": "airguitar.png",
-            "title": "Air Guitar",
-            "key": "b15c7286-bb6d-4915-9a20-237edec19a19"
         },
         {
             "image": "djz.jpg",
@@ -174,11 +141,6 @@
             "title": "Get Something Done",
             "description": "I might remake this.",
             "key": "8210cffd-4232-46ed-8c63-d1792733ab38"
-        },
-        {
-            "image": "airguitarredux.png",
-            "title": "Air Guitar: Redux",
-            "key": "fd922761-9e11-4595-a5f1-73ecffd715b0"
         },
         {
             "image": "braindead.png",
