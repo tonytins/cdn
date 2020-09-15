@@ -160,6 +160,11 @@
             "key": "698ade7f-1e2a-4d0b-a9fd-39e8ba53deab"
         },
         {
+            "image": "usandworld.png",
+            "title": "Us Against the World",
+            "key": "2615aee5-fe03-46df-bf73-77a5bc982754"
+        },
+        {
             "image": "djz.jpg",
             "title": "DJ Zack",
             "key": "3c6cc743-da4e-4ad2-a109-c6996664acd0"
@@ -176,6 +181,11 @@
             "key": "ea72dc9c-edc9-428e-b1f1-03152c37aa40"
         },
         {
+            "image": "notontime.png",
+            "title": "You're late",
+            "key": "bc82616d-2d80-4e8d-b1c2-7ae8e857c6ef"
+        },
+        {
             "image": "z08modelsheet.png",
             "title": "Zack 2008 Model Sheet",
             "key": "67bc1226-b63d-41ec-b57a-13219aac8abf"
@@ -186,10 +196,21 @@
             "key": "56c7dbfd-c338-426e-8961-3cb969dfe66e"
         },
         {
+            "image": "zgoescamping.png",
+            "title": "Zack Goes Camping",
+            "key": "46ff2468-e7c8-4b8a-8478-828b27d0fddf"
+        },
+        {
             "image": "goodmorning.jpg",
             "title": "Good Morning, World",
             "description": "I wanted to test out out shading.",
             "key": "ffec000e-39dd-4755-b33e-4f738a1bd48a"
+        },
+        {
+            "image": "bunnibreakfest.png",
+            "title": "Zack vs Bunni",
+            "description": "Unfortunately, I forgot who created Bunni.",
+            "key": "e6f5ae1e-02a3-4ff2-bb15-8594ae975834"
         },
         {
             "image": "getsomethingdone.jpg",
@@ -202,6 +223,12 @@
             "title": "Windows XP: Insane Edition",
             "description": "I think this was featured somewhere on DeviantART, and it got me popular for a bit.",
             "key": "192343dc-06f6-4c81-a8d0-53bb9b0a5533"
+        },
+        {
+            "image": "zackratcasey.jpg",
+            "title": "Zack Rattus Casey",
+            "description": "Pre-Aidan, experimenting with Zack as a Rat.",
+            "key": "5fbcf2e7-9ce6-4aad-9ddc-6121b4d02c03"
         },
         {
             "image": "braindead.png",
