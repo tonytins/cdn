@@ -144,8 +144,8 @@
             "key": "02b72d88-58f4-4f18-94d0-1840db717584"
         },
         {
-            "image": "zmodelsheet.png",
-            "title": "Zack v1 Model Sheet",
+            "image": "z05modelsheet.png",
+            "title": "Zack 2005 Model Sheet",
             "key": "a0eaeb09-7eae-46f8-8eab-1f7d08847936"
         },
         {
@@ -176,6 +176,11 @@
             "key": "ea72dc9c-edc9-428e-b1f1-03152c37aa40"
         },
         {
+            "image": "z08modelsheet.png",
+            "title": "Zack 2008 Model Sheet",
+            "key": "67bc1226-b63d-41ec-b57a-13219aac8abf"
+        },
+        {
             "image": "zconcept2.png",
             "title": "Zack, concept 2",
             "key": "698ade7f-1e2a-4d0b-a9fd-39e8ba53deab"
@@ -191,6 +196,12 @@
             "title": "Get Something Done",
             "description": "I might remake this.",
             "key": "8210cffd-4232-46ed-8c63-d1792733ab38"
+        },
+        {
+            "image": "xpinsane.png",
+            "title": "Windows XP: Insane Edition",
+            "description": "I think this was featured somewhere on DeviantART, and it got me popular for a bit.",
+            "key": "192343dc-06f6-4c81-a8d0-53bb9b0a5533"
         },
         {
             "image": "braindead.png",
