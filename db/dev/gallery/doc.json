@@ -1,6 +1,6 @@
 {
     "title": "D.O.C.",
-    "description": "DOC, for Document of Cartoons, is my archive of past artworks and model sheets from 2005 to 2009. The name derives from Cartoon Network's DOC, which served the same purpose but focused on concept art instead of general artwork.",
+    "description": "D.O.C, for Department of Cartoons, is my archive of past artworks and model sheets from 2005 to 2009. The name derives from [Cartoon Network's D.O.C](https://web.archive.org/web/19991012063030/http://cartoonnetwork.com:80/doc/index.html), which served the same purpose but focused on concept art instead of general artwork.",
     "artwork": [
         {
             "image": "3kviews.png",
@@ -224,7 +224,7 @@
             "key": "67bc1226-b63d-41ec-b57a-13219aac8abf"
         },
         {
-            "image": "zack05.png",
+            "image": "zack05.jpg",
             "title": "Zack",
             "key": "0ac9f1b8-4ca0-4a2f-96c3-56ab21af694d"
         },
