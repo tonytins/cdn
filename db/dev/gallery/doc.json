@@ -1,6 +1,6 @@
 {
     "title": "D.O.C.",
-    "description": "D.O.C, for Department of Cartoons, is my archive of past artworks and model sheets from 2005 to 2009. The name derives from [Cartoon Network's D.O.C](https://web.archive.org/web/19991012063030/http://cartoonnetwork.com:80/doc/index.html), which served the same purpose but focused on concept art instead of general artwork.",
+    "description": "D.O.C, for Department of Cartoons, is my archive of past artworks and model sheets from 2005 to 2009. The name derives from [Cartoon Network's D.O.C](https:\/\/web.archive.org\/web\/19991012063030\/http:\/\/cartoonnetwork.com:80\/doc\/index.html), which served the same purpose but focused on concept art instead of general artwork.",
     "artwork": [
         {
             "image": "3kviews.png",
@@ -140,7 +140,7 @@
         {
             "image": "fbdoc.png",
             "title": "Furry Blue DOC",
-            "description": "Furry Blue DOC was the spiritual successor to the [Furry Blue DJ](\/gallery\/doc\/4124198d-5289-4a24-aa06-49f1e4d3204d) website after I had shutdown the domain. It had many iterations, improvements, and was put onto a lot of free static web hosts after the PHP stuff was removed because I didn't have to worry about the content changing over time.",
+            "description": "Before merging into this site, Furry Blue DOC was spin off to the [Furry Blue DJ](\/gallery\/doc\/4124198d-5289-4a24-aa06-49f1e4d3204d) created when I actually did have a site called that. It eventually became the spiritual successor, existing on many static websites, after I removed all the PHP components and rebuilt in Dreamweaver.",
             "key": "02b72d88-58f4-4f18-94d0-1840db717584"
         },
         {
