@@ -1,11 +1,10 @@
 {
     "title": "Shorties",
-    "description": "Initially knowns as Z's Shorty Manga, Shorties is an episodic series featuring past and present characters.",
+    "description": "Initially knowns as Z's Shorty Manga, Shorties is an episodic series featuring all of my characters, and maybe even some guests.",
     "artwork": [
         {
             "image": "shockingexp.png",
             "title": "Shocking Experience",
-            "description": "This comic was part of Z's Shorty Manga comic series, my own version of Mega's Shorty Manga created back in 2005. It's been rebooted and rebranded as Shorties. The original was top-down but I made it left-right.",
             "key": "ea72dc9c-edc9-428e-b1f1-03152c37aa40"
         }
     ]
