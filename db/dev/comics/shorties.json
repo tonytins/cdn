@@ -5,7 +5,8 @@
         {
             "image": "shockingexp.png",
             "title": "Shocking Experience",
-            "key": "ea72dc9c-edc9-428e-b1f1-03152c37aa40"
+            "key": "ea72dc9c-edc9-428e-b1f1-03152c37aa40",
+            "forward": "eaf98c5a-aa42-4748-844e-3d01dd7a3eab"
         },
         {
             "image": "wereback.png",
