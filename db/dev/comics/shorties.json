@@ -6,6 +6,12 @@
             "image": "shockingexp.png",
             "title": "Shocking Experience",
             "key": "ea72dc9c-edc9-428e-b1f1-03152c37aa40"
+        },
+        {
+            "image": "wereback.png",
+            "title": "We're back",
+            "key": "eaf98c5a-aa42-4748-844e-3d01dd7a3eab",
+            "backward": "ea72dc9c-edc9-428e-b1f1-03152c37aa40"
         }
     ]
 }
