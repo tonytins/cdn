@@ -2,6 +2,12 @@
     "title": "Gallery",
     "artwork": [
         {
+            "image": "run.png",
+            "title": "Run",
+            "description": "The return of Aqua Fox.",
+            "key": "ce1870eb-94a5-4d41-9ae7-a8d5eeff81c2"
+        },
+        {
             "image": "infinitevoid.png",
             "title": "Infinite Void",
             "description": "Based off of a [tutorial](https://youtu.be/W9eAVW4G8ws).",
@@ -99,7 +105,7 @@
         {
             "image": "aquafox.png",
             "title": "Aqua Fox",
-            "description": "The first version of Zack with super powers.",
+            "description": "An early version of Zack with super powers drawn way back in the early 2010s.",
             "key": "e56b7ce4-9cce-41f1-9f45-30b851c83e2f"
         },
         {
