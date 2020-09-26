@@ -192,6 +192,11 @@
             "key": "08c26f93-2f80-462e-9cbe-51823a14d162"
         },
         {
+            "image": "allshewrote.png",
+            "title": "That's All She Wrote",
+            "key": "731af639-0253-49d8-ad5d-fcc3a984885d"
+        },
+        {
             "image": "superz.png",
             "title": "Super Z",
             "key": "04c76962-8f27-45cb-8797-3b4adb615f2c"
@@ -212,6 +217,11 @@
             "key": "bc82616d-2d80-4e8d-b1c2-7ae8e857c6ef"
         },
         {
+            "image": "spitbomer.png",
+            "title": "Spit Bomber",
+            "key": "3f96af29-ddbd-4652-9a02-b80f1dece691"
+        },
+        {
             "image": "icrazy.png",
             "title": "iCrazy",
             "description": "I was really into the iPod, at the time.",
@@ -221,6 +231,11 @@
             "image": "z08modelsheet.png",
             "title": "Zack 2008 Model Sheet",
             "key": "67bc1226-b63d-41ec-b57a-13219aac8abf"
+        },
+        {
+            "image": "sleeping.png",
+            "title": "Sleeping",
+            "key": "e97d10a1-68e9-40bc-b7bb-0522829da1cd"
         },
         {
             "image": "zack05.jpg",
