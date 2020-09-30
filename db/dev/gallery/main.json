@@ -28,6 +28,7 @@
         {
             "image": "intoyou.png",
             "title": "Into You",
+            "description": "Just felt like making a pic out of this song. Specifically, the [80s remix](https://www.youtube.com/watch?v=8uDQ0P9AWc8).",
             "key": "adbbda08-a48f-435f-b749-8082dd91d189"
         },
         {
@@ -40,6 +41,12 @@
             "title": "Zelos Choose Tonytins",
             "description": "",
             "key": "899815f6-7be8-45cc-acd3-02422c76ee61"
+        },
+        {
+            "image": "ff15-banner.png",
+            "title": "FF15 Banner",
+            "description": "This was meant to be for Twitch but I got the size wrong. So I need to redo it. xD",
+            "key": "d1310682-2a9e-448b-9c6b-d68bfbcb7fdf"
         },
         {
             "image": "aidanrev012.png",
@@ -56,6 +63,7 @@
         {
             "image": "felix.png",
             "title": "Felix",
+            "description": "Felix Green is a cyborg (and later android) who lost his eye and arm in a car accident while he was still in collage. His father invested thousands to give him cybernetic prosthetics that not only restored his former functions but improved on them as well.\nHe was designed [entirely in Second Life](https://www.furaffinity.net/view/32465071/) as an experiment but developed into my most fleshed out character.",
             "key": "fe142241-1263-4c4e-bab3-a255cedb64b8"
         },
         {
