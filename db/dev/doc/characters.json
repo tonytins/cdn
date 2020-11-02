@@ -1,7 +1,7 @@
 {
-    "title": "",
+    "title": "Characters",
     "description": "",
-    "characters": [
+    "gallery": [
         {
             "name": "Zack Casey",
             "image": "",
@@ -19,8 +19,8 @@
         {
             "name": "Felix Green",
             "image": "",
-            "description": "",
-            "species": "",
+            "description": "Felix Green is an android designed for hospitality. He is self aware and capable of free will due to the diagnostics systems requiring to give information about what he learned.",
+            "species": "android",
             "permalink": "felix"
         },
         {
@@ -28,7 +28,7 @@
             "image": "",
             "description": "",
             "species": "Border Collie",
-            "permalink": "felix"
+            "permalink": "tom"
         },
         {
             "name": "Max",
@@ -36,13 +36,6 @@
             "description": "",
             "species": "Shark",
             "permalink": "max"
-        },
-        {
-            "name": "Max",
-            "image": "",
-            "description": "",
-            "species": "Dolphin",
-            "permalink": ""
         }
     ]
 }

@@ -1,13 +1,17 @@
-[
-    {
-        "image": "",
-        "title": "",
-        "description": "",
-        "key": ""
-    },
-    {
-        "image": "",
-        "title": "",
-        "key": ""
-    }
-]
+{
+    "title": "Gallery",
+    "gallery":
+    [
+        {
+            "image": "",
+            "title": "",
+            "description": "",
+            "key": ""
+        },
+        {
+            "image": "",
+            "title": "",
+            "key": ""
+        }
+    ]
+}
